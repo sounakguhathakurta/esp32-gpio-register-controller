@@ -47,3 +47,7 @@ This is a learning project, not a fully bare-metal firmware implementation. Pin 
 - Add timer-based LED control
 - Explore GPIO interrupts
 - Implement more peripheral configuration at register level
+
+## Live Simulation
+
+Run the ESP32 GPIO Register Controller on Wokwi - https://wokwi.com/projects/478937682860275713
