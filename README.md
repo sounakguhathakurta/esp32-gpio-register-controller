@@ -51,3 +51,11 @@ This is a learning project, not a fully bare-metal firmware implementation. Pin 
 ## Live Simulation
 
 Run the ESP32 GPIO Register Controller on Wokwi - https://wokwi.com/projects/478937682860275713
+
+## Simulation Results
+
+### LED OFF
+LED OFF - LED%20off.png
+
+### LED ON
+LED ON - LED%20on.png
